@@ -1,0 +1,65 @@
+Backend: Vivado
+ClockPeriod: 5
+ClockUncertainty: 12.5%
+HLSConfig:
+  LayerName:
+    bottleneck:
+      Precision: ap_fixed<16,6>
+      ReuseFactor: 4
+      Trace: false
+    bottleneck_relu:
+      Precision: ap_fixed<16,6>
+      ReuseFactor: 4
+      Trace: false
+    decoder_1:
+      Precision: ap_fixed<16,6>
+      ReuseFactor: 4
+      Trace: false
+    decoder_1_relu:
+      Precision: ap_fixed<16,6>
+      ReuseFactor: 4
+      Trace: false
+    encoder_1:
+      Precision: ap_fixed<16,6>
+      ReuseFactor: 4
+      Trace: false
+    encoder_1_relu:
+      Precision: ap_fixed<16,6>
+      ReuseFactor: 4
+      Trace: false
+    input_layer:
+      Precision: ap_fixed<16,6>
+      ReuseFactor: 4
+      Trace: false
+    output_layer:
+      Precision: ap_fixed<16,6>
+      ReuseFactor: 4
+      Trace: false
+  Model:
+    BitExact: null
+    BramFactor: 1000000000
+    Precision:
+      default: fixed<16,6>
+    ReuseFactor: 1
+    Strategy: Latency
+    TraceOutput: false
+IOType: io_parallel
+InputData: null
+InputShapes:
+  input_layer:
+  - 8
+KerasModel: !keras_model 'projeto_fpga_hls/keras_model.keras'
+OutputDir: projeto_fpga_hls
+OutputPredictions: null
+OutputShapes:
+  layer8_out:
+  - 8
+Part: xc7a50t-csg324-1
+ProjectName: myproject
+Stamp: 61a6db4a
+Version: 1.0.0
+WriterConfig:
+  Namespace: null
+  TBOutputStream: both
+  WriteTar: false
+  WriteWeightsTxt: true
