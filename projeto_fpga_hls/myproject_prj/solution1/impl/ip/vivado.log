@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Fri Feb 20 14:15:05 2026
+# Process ID: 8781
+# Current directory: /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/impl/ip
+# Command line: vivado -notrace -mode batch -source run_ippack.tcl
+# Log file: /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/impl/ip/vivado.log
+# Journal file: /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/impl/ip/vivado.jou
+# Running On: trabalho, OS: Linux, CPU Frequency: 2300.172 MHz, CPU Physical cores: 2, Host memory: 12447 MB
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace
+ipx::create_core: Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 1311.891 ; gain = 9.930 ; free physical = 269 ; free virtual = 12981
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/tools/Vivado/2023.2/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Fri Feb 20 14:15:25 2026...

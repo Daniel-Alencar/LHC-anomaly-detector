@@ -1,0 +1,176 @@
+{
+  "0": {
+    "basicblocks": 1,
+    "calls": "9 5 6 7 10 1 4",
+    "file": "myproject.cpp",
+    "fileloc": 7,
+    "instructions": 38,
+    "name": "myproject",
+    "total_instructions": 8960
+  },
+  "1": {
+    "basicblocks": 46,
+    "calls": "",
+    "file": "nnet_activation.h",
+    "fileloc": 39,
+    "instructions": 85,
+    "loads": {
+      "L": 6
+    },
+    "name": "relu<ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, relu_config7>",
+    "stores": {
+      "L": 12
+    },
+    "total_instructions": 85
+  },
+  "10": {
+    "basicblocks": 415,
+    "calls": "8 8 8 8 8 8",
+    "file": "nnet_dense_latency.h",
+    "fileloc": 13,
+    "instructions": 1219,
+    "loads": {
+      "L": 123
+    },
+    "name": "dense_latency<ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, config6>",
+    "stores": {
+      "L": 72
+    },
+    "total_instructions": 1237
+  },
+  "11": {
+    "basicblocks": 1,
+    "calls": "",
+    "file": "nnet_mult.h",
+    "fileloc": 110,
+    "instructions": 3,
+    "loads": {
+      "L": 1
+    },
+    "name": "cast<ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, config2>",
+    "stores": {
+      "L": 1
+    },
+    "total_instructions": 3
+  },
+  "2": {
+    "basicblocks": 1,
+    "calls": "",
+    "file": "nnet_mult.h",
+    "fileloc": 110,
+    "instructions": 3,
+    "loads": {
+      "L": 1
+    },
+    "name": "cast<ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, config8>",
+    "stores": {
+      "L": 1
+    },
+    "total_instructions": 3
+  },
+  "3": {
+    "basicblocks": 1,
+    "calls": "",
+    "file": "nnet_mult.h",
+    "fileloc": 110,
+    "instructions": 3,
+    "loads": {
+      "L": 1
+    },
+    "name": "cast<ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, config4>",
+    "stores": {
+      "L": 1
+    },
+    "total_instructions": 3
+  },
+  "4": {
+    "basicblocks": 1081,
+    "calls": "2 2 2 2 2 2 2 2",
+    "file": "nnet_dense_latency.h",
+    "fileloc": 13,
+    "instructions": 3116,
+    "loads": {
+      "L": 310
+    },
+    "name": "dense_latency<ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, config8>",
+    "stores": {
+      "L": 168
+    },
+    "total_instructions": 3140
+  },
+  "5": {
+    "basicblocks": 46,
+    "calls": "",
+    "file": "nnet_activation.h",
+    "fileloc": 39,
+    "instructions": 85,
+    "loads": {
+      "L": 6
+    },
+    "name": "relu<ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, relu_config3>",
+    "stores": {
+      "L": 12
+    },
+    "total_instructions": 85
+  },
+  "6": {
+    "basicblocks": 421,
+    "calls": "3 3 3",
+    "file": "nnet_dense_latency.h",
+    "fileloc": 13,
+    "instructions": 1201,
+    "loads": {
+      "L": 120
+    },
+    "name": "dense_latency<ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, config4>",
+    "stores": {
+      "L": 63
+    },
+    "total_instructions": 1210
+  },
+  "7": {
+    "basicblocks": 25,
+    "calls": "",
+    "file": "nnet_activation.h",
+    "fileloc": 39,
+    "instructions": 43,
+    "loads": {
+      "L": 3
+    },
+    "name": "relu<ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, relu_config5>",
+    "stores": {
+      "L": 6
+    },
+    "total_instructions": 43
+  },
+  "8": {
+    "basicblocks": 1,
+    "calls": "",
+    "file": "nnet_mult.h",
+    "fileloc": 110,
+    "instructions": 3,
+    "loads": {
+      "L": 1
+    },
+    "name": "cast<ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, config6>",
+    "stores": {
+      "L": 1
+    },
+    "total_instructions": 3
+  },
+  "9": {
+    "basicblocks": 1085,
+    "calls": "11 11 11 11 11 11",
+    "file": "nnet_dense_latency.h",
+    "fileloc": 13,
+    "instructions": 3104,
+    "loads": {
+      "L": 308
+    },
+    "name": "dense_latency<ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, ap_fixed<16, 6, AP_TRN, AP_WRAP, 0>, config2>",
+    "stores": {
+      "L": 162
+    },
+    "total_instructions": 3122
+  }
+}

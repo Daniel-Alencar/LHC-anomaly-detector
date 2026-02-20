@@ -1,0 +1,30 @@
+<AutoPilot:solution xmlns:AutoPilot="com.autoesl.autopilot.solution">
+    <config>
+        <config_compile name_max_length="80" complex-mul-dsp="0"/>
+        <config_schedule enable_dsp_full_reg="0"/>
+        <config_export format="ip_catalog"/>
+    </config>
+    <clockList>
+        <clock default="false" name="default" uncertainty="12.5%" period="5"/>
+    </clockList>
+    <Simulation argv="">
+        <SimFlow name="cosim" setup="true" dumpTrace="all" optimizeCompile="false" ldflags="" mflags="" compiledLibrary="" toolName="xsim">
+            <Rtl name="verilog" active="true"/>
+            <Rtl name="vhdl" active="false"/>
+        </SimFlow>
+    </Simulation>
+    <name>
+        <value string="solution1"/>
+    </name>
+    <project>
+        <value string="myproject_prj"/>
+    </project>
+    <targetInfo>
+        <TargetInfo value="xc7a50t:-csg324:-1"/>
+    </targetInfo>
+    <libraryList>
+        <library value="xilinx/artix7/artix7" name="DefaultPlatform"/>
+    </libraryList>
+    <flowTarget value="vivado"/>
+</AutoPilot:solution>
+

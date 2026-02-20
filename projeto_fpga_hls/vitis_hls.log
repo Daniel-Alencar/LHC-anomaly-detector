@@ -1,0 +1,47 @@
+
+****** Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2023.2 (64-bit)
+  **** SW Build 4023990 on Oct 11 2023
+  **** IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+  **** SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+
+source /tools/Vitis_HLS/2023.2/scripts/vitis_hls/hls.tcl -notrace
+INFO: [HLS 200-10] Running '/tools/Vitis_HLS/2023.2/bin/unwrapped/lnx64.o/vitis_hls'
+INFO: [HLS 200-10] For user 'engenheiro' on host 'trabalho' (Linux_x86_64 version 6.8.0-100-generic) on Fri Feb 20 14:15:00 -03 2026
+INFO: [HLS 200-10] On os Ubuntu 22.04.5 LTS
+INFO: [HLS 200-10] In directory '/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls'
+INFO: [HLS 200-2053] The vitis_hls executable is being deprecated. Consider using vitis-run --mode hls --tcl
+Sourcing Tcl script 'package.tcl'
+INFO: [HLS 200-1510] Running: open_project myproject_prj 
+INFO: [HLS 200-10] Opening project '/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj'.
+INFO: [HLS 200-1510] Running: open_solution solution1 
+INFO: [HLS 200-10] Opening solution '/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 5ns.
+INFO: [SYN 201-201] Setting up clock 'default' with an uncertainty of 0.625ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a50t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+Resolution: For help on HLS 200-1505 see docs.xilinx.com/access/sources/dita/topic?Doc_Version=2023.2%20English&url=ug1448-hls-guidance&resourceid=200-1505.html
+INFO: [HLS 200-1464] Running solution command: config_compile -name_max_length=80
+INFO: [XFORM 203-1161] The maximum of name length is set to 80.
+INFO: [HLS 200-1464] Running solution command: config_schedule -enable_dsp_full_reg=0
+INFO: [HLS 200-1510] Running: export_design -format ip_catalog 
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+
+****** Vivado v2023.2 (64-bit)
+  **** SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+  **** IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+  **** SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+
+source run_ippack.tcl -notrace
+ipx::create_core: Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 1311.891 ; gain = 9.930 ; free physical = 269 ; free virtual = 12981
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/tools/Vivado/2023.2/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Fri Feb 20 14:15:25 2026...
+INFO: [HLS 200-802] Generated output file myproject_prj/solution1/impl/export.zip
+INFO: [HLS 200-111] Finished Command export_design CPU user time: 20.82 seconds. CPU system time: 0.83 seconds. Elapsed time: 26.81 seconds; current allocated memory: 8.508 MB.
+INFO: [HLS 200-112] Total CPU user time: 22.86 seconds. Total CPU system time: 1.14 seconds. Total elapsed time: 28.8 seconds; peak allocated memory: 228.152 MB.
+INFO: [Common 17-206] Exiting vitis_hls at Fri Feb 20 14:15:28 2026...

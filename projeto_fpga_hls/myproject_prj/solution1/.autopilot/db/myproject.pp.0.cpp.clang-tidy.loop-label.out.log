@@ -1,0 +1,424 @@
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:28371:7: warning: Added loop label VITIS_LOOP_1207_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1207_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:28371:7: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:29345:5: warning: Added loop label VITIS_LOOP_676_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_676_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:29345:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:29359:5: warning: Added loop label VITIS_LOOP_690_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_690_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:29359:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:29373:5: warning: Added loop label VITIS_LOOP_704_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_704_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:29373:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:30990:7: warning: Added loop label VITIS_LOOP_1247_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1247_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:30990:7: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:32973:9: warning: Added loop label VITIS_LOOP_27_1:   [xilinx-label-all-loops]
+        for (unsigned i = 0; i < N; i++) {
+        ^~~
+        VITIS_LOOP_27_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:32973:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:32985:9: warning: Added loop label VITIS_LOOP_39_1:   [xilinx-label-all-loops]
+        for (unsigned i = 0; i < N; i++) {
+        ^~~
+        VITIS_LOOP_39_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:32985:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:33002:9: warning: Added loop label VITIS_LOOP_56_1:   [xilinx-label-all-loops]
+        for (size_t i = 0; i < N; i++) {
+        ^~~
+        VITIS_LOOP_56_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:33002:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56210:5: warning: Added loop label VITIS_LOOP_265_1:   [xilinx-label-all-loops]
+    for (typename std::vector<src_T>::const_iterator i = in_begin; i != in_end; ++i) {
+    ^~~
+    VITIS_LOOP_265_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56210:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56220:5: warning: Added loop label VITIS_LOOP_275_1:   [xilinx-label-all-loops]
+    for (auto i = 0; i < SIZE; i++)
+    ^~~
+    VITIS_LOOP_275_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56220:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56231:5: warning: Added loop label VITIS_LOOP_286_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < SIZE; i++) {
+    ^~~
+    VITIS_LOOP_286_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56231:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56238:5: warning: Added loop label VITIS_LOOP_293_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < SIZE / res_T::size; i++) {
+    ^~~
+    VITIS_LOOP_293_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56238:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56240:9: warning: Added loop label VITIS_LOOP_295_2:   [xilinx-label-all-loops]
+        for (int j = 0; j < res_T::size; j++) {
+        ^~~
+        VITIS_LOOP_295_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56240:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56252:5: warning: Added loop label VITIS_LOOP_307_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < SIZE / data_T::size; i++) {
+    ^~~
+    VITIS_LOOP_307_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56252:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56254:9: warning: Added loop label VITIS_LOOP_309_2:   [xilinx-label-all-loops]
+        for (int j = 0; j < data_T::size; j++) {
+        ^~~
+        VITIS_LOOP_309_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56254:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56269:5: warning: Added loop label VITIS_LOOP_324_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < nrows; ii++) {
+    ^~~
+    VITIS_LOOP_324_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56269:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56289:5: warning: Added loop label VITIS_LOOP_344_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < nrows; ii++) {
+    ^~~
+    VITIS_LOOP_344_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56289:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56290:9: warning: Added loop label VITIS_LOOP_345_2:   [xilinx-label-all-loops]
+        for (int jj = 0; jj < ncols; jj++) {
+        ^~~
+        VITIS_LOOP_345_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56290:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56305:5: warning: Added loop label VITIS_LOOP_360_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_IN; ii++) {
+    ^~~
+    VITIS_LOOP_360_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56305:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56312:5: warning: Added loop label VITIS_LOOP_367_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_IN; ii++) {
+    ^~~
+    VITIS_LOOP_367_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56312:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56621:5: warning: Added loop label VITIS_LOOP_135_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::out_width / CONFIG_T::n_partitions; ii++) {
+    ^~~
+    VITIS_LOOP_135_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56621:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56622:9: warning: Added loop label VITIS_LOOP_136_2:   [xilinx-label-all-loops]
+        for (int ff = 0; ff < CONFIG_T::n_filt; ff++) {
+        ^~~
+        VITIS_LOOP_136_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56622:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56643:5: warning: Added loop label VITIS_LOOP_157_3:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::out_width / CONFIG_T::n_partitions; ii++) {
+    ^~~
+    VITIS_LOOP_157_3: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56643:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56644:9: warning: Added loop label VITIS_LOOP_158_4:   [xilinx-label-all-loops]
+        for (int ff = 0; ff < CONFIG_T::n_filt; ff++) {
+        ^~~
+        VITIS_LOOP_158_4: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56644:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56791:2: warning: Added loop label VITIS_LOOP_31_1:   [xilinx-label-all-loops]
+ for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+ ^~~
+ VITIS_LOOP_31_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56791:2: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56803:5: warning: Added loop label VITIS_LOOP_43_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_43_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56803:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56817:5: warning: Added loop label VITIS_LOOP_57_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_57_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56817:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56844:5: warning: Added loop label VITIS_LOOP_84_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_84_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56844:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56874:5: warning: Added loop label VITIS_LOOP_114_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_114_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56874:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56911:5: warning: Added loop label VITIS_LOOP_151_1:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::exp_table_size; i++) {
+    ^~~
+    VITIS_LOOP_151_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56911:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56927:5: warning: Added loop label VITIS_LOOP_167_1:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::inv_table_size; i++) {
+    ^~~
+    VITIS_LOOP_167_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56927:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56960:5: warning: Added loop label VITIS_LOOP_200_1:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_200_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56960:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56973:5: warning: Added loop label VITIS_LOOP_213_2:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_213_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:56973:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57006:5: warning: Added loop label VITIS_LOOP_246_1:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_246_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57006:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57015:5: warning: Added loop label VITIS_LOOP_255_2:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_255_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57015:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57028:5: warning: Added loop label VITIS_LOOP_268_3:   [xilinx-label-all-loops]
+    for (unsigned i = 0; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_268_3: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57028:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57035:5: warning: Added loop label VITIS_LOOP_275_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_275_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57035:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57048:5: warning: Added loop label VITIS_LOOP_288_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_288_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57048:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57085:5: warning: Added loop label VITIS_LOOP_325_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_slice; ii++) {
+    ^~~
+    VITIS_LOOP_325_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57085:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57090:5: warning: Added loop label VITIS_LOOP_330_2:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_slice; ii++) {
+    ^~~
+    VITIS_LOOP_330_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57090:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57091:9: warning: Added loop label VITIS_LOOP_331_3:   [xilinx-label-all-loops]
+        for (int jj = 0; jj < CONFIG_T::n_slice; jj++) {
+        ^~~
+        VITIS_LOOP_331_3: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57091:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57108:5: warning: Added loop label VITIS_LOOP_348_4:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_slice; ii++) {
+    ^~~
+    VITIS_LOOP_348_4: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57108:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57121:5: warning: Added loop label VITIS_LOOP_361_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_361_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57121:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57129:5: warning: Added loop label VITIS_LOOP_369_2:   [xilinx-label-all-loops]
+    for (int i = 1; i < CONFIG_T::n_slice; i++) {
+    ^~~
+    VITIS_LOOP_369_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57129:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57165:5: warning: Added loop label VITIS_LOOP_405_1:   [xilinx-label-all-loops]
+    for (signed i = 0; i < CONFIG_T::n_outer; i++) {
+    ^~~
+    VITIS_LOOP_405_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57165:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57167:2: warning: Added loop label VITIS_LOOP_407_2:   [xilinx-label-all-loops]
+ for (signed k = 0; k < CONFIG_T::n_inner; k++) {
+ ^~~
+ VITIS_LOOP_407_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57167:2: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57169:2: warning: Added loop label VITIS_LOOP_409_3:   [xilinx-label-all-loops]
+ for (signed j = 0; j < CONFIG_T::n_slice; j++) {
+ ^~~
+ VITIS_LOOP_409_3: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57169:2: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57174:13: warning: Added loop label VITIS_LOOP_414_4:   [xilinx-label-all-loops]
+            for (signed j = 0; j < CONFIG_T::n_slice; j++) {
+            ^~~
+            VITIS_LOOP_414_4: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57174:13: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57187:5: warning: Added loop label VITIS_LOOP_427_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_427_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57187:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57217:5: warning: Added loop label VITIS_LOOP_457_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_457_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57217:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57244:2: warning: Added loop label VITIS_LOOP_484_1:   [xilinx-label-all-loops]
+ for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+ ^~~
+ VITIS_LOOP_484_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57244:2: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57258:2: warning: Added loop label VITIS_LOOP_498_1:   [xilinx-label-all-loops]
+ for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+ ^~~
+ VITIS_LOOP_498_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57258:2: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57274:5: warning: Added loop label VITIS_LOOP_514_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_514_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57274:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57292:5: warning: Added loop label VITIS_LOOP_532_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_532_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57292:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57309:5: warning: Added loop label VITIS_LOOP_549_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_549_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57309:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57326:5: warning: Added loop label VITIS_LOOP_566_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_566_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57326:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57356:5: warning: Added loop label VITIS_LOOP_596_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_596_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57356:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57375:5: warning: Added loop label VITIS_LOOP_615_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_615_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57375:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57405:5: warning: Added loop label VITIS_LOOP_645_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_645_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57405:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57424:5: warning: Added loop label VITIS_LOOP_664_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_664_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57424:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57454:5: warning: Added loop label VITIS_LOOP_694_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_694_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57454:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57481:5: warning: Added loop label VITIS_LOOP_721_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < N_TABLE; ii++) {
+    ^~~
+    VITIS_LOOP_721_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57481:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57509:2: warning: Added loop label VITIS_LOOP_749_1:   [xilinx-label-all-loops]
+ for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+ ^~~
+ VITIS_LOOP_749_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57509:2: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57539:5: warning: Added loop label VITIS_LOOP_779_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_779_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57539:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57568:5: warning: Added loop label VITIS_LOOP_808_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_808_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57568:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57588:5: warning: Added loop label VITIS_LOOP_828_1:   [xilinx-label-all-loops]
+    for (int ii = 0; ii < CONFIG_T::n_in; ii++) {
+    ^~~
+    VITIS_LOOP_828_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57588:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57833:9: warning: Added loop label VITIS_LOOP_229_1:   [xilinx-label-all-loops]
+        for (int i = 0; i < N / data_T::size; i++) {
+        ^~~
+        VITIS_LOOP_229_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57833:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57840:13: warning: Added loop label VITIS_LOOP_236_2:   [xilinx-label-all-loops]
+            for (int j = 0; j < data_T::size; j++) {
+            ^~~
+            VITIS_LOOP_236_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57840:13: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57849:9: warning: Added loop label VITIS_LOOP_245_3:   [xilinx-label-all-loops]
+        for (int i = 0; i < N / data_T::size; i++) {
+        ^~~
+        VITIS_LOOP_245_3: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57849:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57858:13: warning: Added loop label VITIS_LOOP_254_4:   [xilinx-label-all-loops]
+            for (int j = 0; j < pack_diff; j++) {
+            ^~~
+            VITIS_LOOP_254_4: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57858:13: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57862:17: warning: Added loop label VITIS_LOOP_258_5:   [xilinx-label-all-loops]
+                for (int k = 0; k < res_T::size; k++) {
+                ^~~
+                VITIS_LOOP_258_5: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57862:17: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57873:9: warning: Added loop label VITIS_LOOP_269_6:   [xilinx-label-all-loops]
+        for (int i = 0; i < N / data_T::size; i++) {
+        ^~~
+        VITIS_LOOP_269_6: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57873:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57877:13: warning: Added loop label VITIS_LOOP_273_7:   [xilinx-label-all-loops]
+            for (int j = 0; j < data_T::size; j++) {
+            ^~~
+            VITIS_LOOP_273_7: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57877:13: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57901:9: warning: Added loop label VITIS_LOOP_297_1:   [xilinx-label-all-loops]
+        for (int j = 0; j < n_dupl; j++) {
+        ^~~
+        VITIS_LOOP_297_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57901:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57905:13: warning: Added loop label VITIS_LOOP_301_2:   [xilinx-label-all-loops]
+            for (int k = 0; k < res_T::size; k++) {
+            ^~~
+            VITIS_LOOP_301_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57905:13: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57924:9: warning: Added loop label VITIS_LOOP_320_1:   [xilinx-label-all-loops]
+        for (int k = 0; k < res_T::size; k++) {
+        ^~~
+        VITIS_LOOP_320_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:57924:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58148:9: warning: Added loop label VITIS_LOOP_211_1:   [xilinx-label-all-loops]
+        for (unsigned j = 0; j < data_T::size; j++) {
+        ^~~
+        VITIS_LOOP_211_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58148:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58157:9: warning: Added loop label VITIS_LOOP_220_2:   [xilinx-label-all-loops]
+        for (unsigned j = 0; j < data_T::size; j++) {
+        ^~~
+        VITIS_LOOP_220_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58157:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58262:5: warning: Added loop label VITIS_LOOP_325_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < CONFIG_T::n_in / res_T::size; i++) {
+    ^~~
+    VITIS_LOOP_325_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58262:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58267:9: warning: Added loop label VITIS_LOOP_330_2:   [xilinx-label-all-loops]
+        for (int i = 0; i < res_T::size; i++) {
+        ^~~
+        VITIS_LOOP_330_2: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58267:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58275:9: warning: Added loop label VITIS_LOOP_338_3:   [xilinx-label-all-loops]
+        for (int i = 1; i < res_T::size; i++) {
+        ^~~
+        VITIS_LOOP_338_3: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58275:9: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58857:9: error: Resource with core_name: ROM_nP_BRAM pragma is ignored, because this core doesn't exist at all  [clang-diagnostic-error]
+#pragma HLS RESOURCE variable=weights core=ROM_nP_BRAM
+        ^
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:58931:9: error: Resource with core_name: ROM_nP_BRAM pragma is ignored, because this core doesn't exist at all  [clang-diagnostic-error]
+#pragma HLS RESOURCE variable=weights core=ROM_nP_BRAM
+        ^
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59013:9: error: Resource with core_name: ROM_nP_BRAM pragma is ignored, because this core doesn't exist at all  [clang-diagnostic-error]
+#pragma HLS RESOURCE variable=weights core=ROM_nP_BRAM
+        ^
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59186:5: warning: Added loop label VITIS_LOOP_14_1:   [xilinx-label-all-loops]
+    for (unsigned k = 0; k < CONFIG_T::n_out; k++) {
+    ^~~
+    VITIS_LOOP_14_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59186:5: note: FIX-IT applied suggested code changes
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59246:9: warning: Added loop label VITIS_LOOP_74_1:   [xilinx-label-all-loops]
+        for (int im = 0; im < CONFIG_T::n_out; im++) {
+        ^~~
+        VITIS_LOOP_74_1: 
+/media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp:59246:9: note: FIX-IT applied suggested code changes

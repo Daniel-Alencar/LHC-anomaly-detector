@@ -1,0 +1,766 @@
+---
+MainSourceFile:  /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+Diagnostics:     
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_1207_1:  '
+    FileOffset:      1207
+    FilePath:        /tools/Vitis_HLS/2023.2/common/technology/autopilot/etc/ap_int_base.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          784394
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_1207_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_676_1:  '
+    FileOffset:      676
+    FilePath:        /tools/Vitis_HLS/2023.2/common/technology/autopilot/etc/ap_int_ref.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          1012026
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_676_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_690_1:  '
+    FileOffset:      690
+    FilePath:        /tools/Vitis_HLS/2023.2/common/technology/autopilot/etc/ap_int_ref.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          1012494
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_690_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_704_1:  '
+    FileOffset:      704
+    FilePath:        /tools/Vitis_HLS/2023.2/common/technology/autopilot/etc/ap_int_ref.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          1012963
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_704_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_1247_1:  '
+    FileOffset:      1247
+    FilePath:        /tools/Vitis_HLS/2023.2/common/technology/autopilot/etc/ap_fixed_base.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          1296297
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_1247_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_27_1:  '
+    FileOffset:      27
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_types.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          1670123
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_27_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_39_1:  '
+    FileOffset:      39
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_types.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          1670361
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_39_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_56_1:  '
+    FileOffset:      56
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_types.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          1670856
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_56_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_265_1:  '
+    FileOffset:      265
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2347114
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_265_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_275_1:  '
+    FileOffset:      275
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2347501
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_275_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_286_1:  '
+    FileOffset:      286
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2347836
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_286_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_293_1:  '
+    FileOffset:      293
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2348059
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_293_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_295_2:  '
+    FileOffset:      295
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2348154
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_295_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_307_1:  '
+    FileOffset:      307
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2348518
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_307_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_309_2:  '
+    FileOffset:      309
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2348600
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_309_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_324_1:  '
+    FileOffset:      324
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2348943
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_324_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_344_1:  '
+    FileOffset:      344
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2349396
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_344_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_345_2:  '
+    FileOffset:      345
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2349441
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_345_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_360_1:  '
+    FileOffset:      360
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2349850
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_360_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_367_1:  '
+    FileOffset:      367
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_helpers.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2350063
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_367_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_135_1:  '
+    FileOffset:      135
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_conv1d_latency.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2359508
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_135_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_136_2:  '
+    FileOffset:      136
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_conv1d_latency.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2359592
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_136_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_157_3:  '
+    FileOffset:      157
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_conv1d_latency.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2360134
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_157_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_158_4:  '
+    FileOffset:      158
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_conv1d_latency.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2360218
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_158_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_31_1:  '
+    FileOffset:      31
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2364383
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_31_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_43_1:  '
+    FileOffset:      43
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2364636
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_43_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_57_1:  '
+    FileOffset:      57
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2364997
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_57_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_84_1:  '
+    FileOffset:      84
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2365813
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_84_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_114_1:  '
+    FileOffset:      114
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2366474
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_114_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_151_1:  '
+    FileOffset:      151
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2367619
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_151_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_167_1:  '
+    FileOffset:      167
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2368083
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_167_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_200_1:  '
+    FileOffset:      200
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2369015
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_200_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_213_2:  '
+    FileOffset:      213
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2369550
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_213_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_246_1:  '
+    FileOffset:      246
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2370413
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_246_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_255_2:  '
+    FileOffset:      255
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2370683
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_255_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_268_3:  '
+    FileOffset:      268
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2371246
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_268_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_275_1:  '
+    FileOffset:      275
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2371483
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_275_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_288_1:  '
+    FileOffset:      288
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2371843
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_288_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_325_1:  '
+    FileOffset:      325
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2372800
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_325_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_330_2:  '
+    FileOffset:      330
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2372920
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_330_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_331_3:  '
+    FileOffset:      331
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2372977
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_331_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_348_4:  '
+    FileOffset:      348
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2373577
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_348_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_361_1:  '
+    FileOffset:      361
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2374085
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_361_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_369_2:  '
+    FileOffset:      369
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2374229
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_369_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_405_1:  '
+    FileOffset:      405
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2375424
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_405_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_407_2:  '
+    FileOffset:      407
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2375493
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_407_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_409_3:  '
+    FileOffset:      409
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2375562
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_409_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_414_4:  '
+    FileOffset:      414
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2375818
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_414_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_427_1:  '
+    FileOffset:      427
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2376132
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_427_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_457_1:  '
+    FileOffset:      457
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2376769
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_457_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_484_1:  '
+    FileOffset:      484
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2377605
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_484_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_498_1:  '
+    FileOffset:      498
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2377947
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_498_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_514_1:  '
+    FileOffset:      514
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2378405
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_514_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_532_1:  '
+    FileOffset:      532
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2378875
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_532_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_549_1:  '
+    FileOffset:      549
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2379278
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_549_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_566_1:  '
+    FileOffset:      566
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2379673
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_566_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_596_1:  '
+    FileOffset:      596
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2380339
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_596_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_615_1:  '
+    FileOffset:      615
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2380913
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_615_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_645_1:  '
+    FileOffset:      645
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2381579
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_645_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_664_1:  '
+    FileOffset:      664
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2382133
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_664_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_694_1:  '
+    FileOffset:      694
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2382782
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_694_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_721_1:  '
+    FileOffset:      721
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2383620
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_721_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_749_1:  '
+    FileOffset:      749
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2384304
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_749_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_779_1:  '
+    FileOffset:      779
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2384989
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_779_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_808_1:  '
+    FileOffset:      808
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2385829
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_808_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_828_1:  '
+    FileOffset:      828
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2386248
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_828_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_229_1:  '
+    FileOffset:      229
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2392302
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_229_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_236_2:  '
+    FileOffset:      236
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2392442
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_236_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_245_3:  '
+    FileOffset:      245
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2392707
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_245_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_254_4:  '
+    FileOffset:      254
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2392901
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_254_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_258_5:  '
+    FileOffset:      258
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2392994
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_258_5: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_269_6:  '
+    FileOffset:      269
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2393320
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_269_6: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_273_7:  '
+    FileOffset:      273
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2393430
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_273_7: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_297_1:  '
+    FileOffset:      297
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2394396
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_297_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_301_2:  '
+    FileOffset:      301
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2394482
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_301_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_320_1:  '
+    FileOffset:      320
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2395158
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_320_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_211_1:  '
+    FileOffset:      211
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2401446
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_211_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_220_2:  '
+    FileOffset:      220
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2401724
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_220_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_325_1:  '
+    FileOffset:      325
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2404945
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_325_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_330_2:  '
+    FileOffset:      330
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2405087
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_330_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_338_3:  '
+    FileOffset:      338
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_activation_stream.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2405291
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_338_3: '
+  - DiagnosticName:  clang-diagnostic-error
+    Message:         'Resource with core_name: ROM_nP_BRAM pragma is ignored, because this core doesn''t exist at all '
+    FileOffset:      33
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_dense_resource.h
+    Replacements:    
+  - DiagnosticName:  clang-diagnostic-error
+    Message:         'Resource with core_name: ROM_nP_BRAM pragma is ignored, because this core doesn''t exist at all '
+    FileOffset:      107
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_dense_resource.h
+    Replacements:    
+  - DiagnosticName:  clang-diagnostic-error
+    Message:         'Resource with core_name: ROM_nP_BRAM pragma is ignored, because this core doesn''t exist at all '
+    FileOffset:      189
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_dense_resource.h
+    Replacements:    
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_14_1:  '
+    FileOffset:      14
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_dense_compressed.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2431604
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_14_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_74_1:  '
+    FileOffset:      74
+    FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/firmware/nnet_utils/nnet_dense_compressed.h
+    Replacements:    
+      - FilePath:        /media/engenheiro/Arquivos_Linux/Arquivos/Projects/Categorizados/Engenharia/FPGA/GitHub-Projects/LHC-autoencoder-example/projeto_fpga_hls/myproject_prj/solution1/.autopilot/db/myproject.pp.0.cpp
+        Offset:          2433475
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_74_1: '
+...
