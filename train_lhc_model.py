@@ -29,7 +29,8 @@ X_drift = np.random.normal(loc=2.0, scale=0.5, size=(100, NUM_SENSORS))
 
 # Tipo 2: Spike (Instabilidade súbita, ex: falha de ímã)
 X_spike = np.random.normal(loc=0.0, scale=0.5, size=(100, NUM_SENSORS))
-X_spike[:, 0] = 5.0  # O primeiro sensor lê um valor absurdo
+# O primeiro sensor lê um valor absurdo
+X_spike[:, 0] = 5.0  
 
 # Juntamos tudo para teste, mas treinamos APENAS com X_normal
 X_test_anomalies = np.vstack([X_drift, X_spike])
@@ -52,7 +53,8 @@ input_dim = X_train.shape[1]
 # Encoder
 input_layer = Input(shape=(input_dim,), name='input_layer')
 encoder = Dense(6, activation='relu', name='encoder_1')(input_layer)
-bottleneck = Dense(3, activation='relu', name='bottleneck')(encoder) # Latent space
+# Latent space
+bottleneck = Dense(3, activation='relu', name='bottleneck')(encoder) 
 
 # Decoder
 decoder = Dense(6, activation='relu', name='decoder_1')(bottleneck)
@@ -72,12 +74,12 @@ autoencoder.summary()
 # ==========================================
 print("\n--- 2. Iniciando Treinamento ---")
 history = autoencoder.fit(
-    X_train, X_train, # Autoencoder: entrada == saída desejada
+    X_train, X_train,
     epochs=50,
     batch_size=32,
     validation_data=(X_test, X_test),
     shuffle=True,
-    verbose=0 # Mude para 1 se quiser ver o progresso linha a linha
+    verbose=0
 )
 print("Treinamento concluído.")
 
