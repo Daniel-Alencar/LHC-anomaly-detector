@@ -136,8 +136,28 @@ openFPGALoader -b colorlight-i9 <arquivo_bitstream>.bit
 *(A placa indicará configuração bem-sucedida).*
 
 2. **Testar com VIO (Vivado Hardware Manager):**
-* Abra o Vivado, vá em **Open Hardware Manager** e clique em **Auto Connect**.
-* A aba do painel VIO (`hw_vio_1`) será aberta.
-* **Operação normal:** Coloque o sinal de `Reset` em 1 e depois 0. Coloque `Start` em 1.
-* **Calibração:** Insira `00000000...` no vetor de entrada (representando os sensores nominais). As saídas devem tender a valores residuais baixos.
-* **Injeção de Anomalia:** Altere parte da entrada para valores altos (ex: `FFFF`). Observe a saída da rede neural distorcer em tempo real na interface, indicando a detecção da falha no feixe simulado!
+
+
+
+O VIO (Virtual Input/Output) atua como o nosso painel de controle e monitoramento, permitindo ler e escrever nos registradores internos da FPGA em tempo real. 
+
+Abra o Vivado, vá em **Open Hardware Manager** e clique em **Auto Connect**. A aba do painel VIO (`hw_vio_1`) será aberta. Antes de testar, configure as bases numéricas (Radix) clicando com o botão direito sobre os sinais:
+* `probe_out0` (128 bits de entrada): Mude para **Hexadecimal**.
+* `probe_in0` a `probe_in7` (16 bits de saída): Mude para **Signed Decimal** ou **Hexadecimal**.
+
+**Passo a Passo da Simulação:**
+
+* **A) Inicialização (Acordando a IA):**
+  1. Altere o `probe_out1` (Reset) para **1** e retorne para **0**. Isso limpa a memória interna e os registradores.
+  2. Altere o `probe_out2` (Start) para **1**. Agora o Autoencoder está calculando continuamente a cada ciclo de clock.
+
+* **B) Simulação do Feixe Nominal (Calibração):**
+  1. No campo `probe_out0` (Sensores de Entrada), insira o valor `00000000...000`. Isso simula o feixe perfeitamente estável e centralizado no acelerador.
+  2. **O que observar:** O Autoencoder foi treinado para reconstruir sinais nominais. Portanto, as saídas (`probe_in0` a `7`) devem apresentar valores residuais muito baixos (próximos de zero). Isso indica que a rede "reconhece" este padrão e o erro de reconstrução é mínimo.
+
+* **C) Injeção de Anomalia (A Falha Crítica):**
+  
+  1. No mesmo campo `probe_out0`, altere subitamente alguns dígitos no meio da string para simular um ruído extremo ou falha de um magneto. Exemplo: Mude para `0000...FFFF...0000`.
+  2. **O que observar:** Como a rede possui um "gargalo" (espaço latente restrito) e nunca foi treinada com valores tão discrepantes (`FFFF`), ela será **incapaz de reconstruir** essa entrada. 
+  3. Você verá os valores de saída (`probe_in0` a `7`) saltarem para números aleatórios ou altamente distorcidos em relação à entrada. 
+  4. **Conclusão:** A diferença matemática entre o que você injetou (a anomalia) e o que a rede devolveu (a reconstrução falha) gera um erro de reconstrução altíssimo (MSE). Na arquitetura final do LHC, um comparador simples detectaria esse pico de erro e acionaria o sistema de intertravamento (*Interlock*) para abortar o feixe imediatamente.
