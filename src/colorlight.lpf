@@ -1,0 +1,20 @@
+BLOCK RESETPATHS;
+BLOCK ASYNCPATHS;
+
+# --- 1. System Clock (25 MHz) ---
+# O pino P3 é o cristal de 25MHz padrão na Colorlight i9+ v7.2
+LOCATE COMP "clk_25mhz" SITE "P3";
+IOBUF PORT "clk_25mhz" IO_TYPE=LVCMOS33;
+
+# --- 2. UART (Conexão com o PC) ---
+LOCATE COMP "rx" SITE "H18";
+IOBUF PORT "rx" IO_TYPE=LVCMOS33;
+
+LOCATE COMP "tx" SITE "J17";
+IOBUF PORT "tx" IO_TYPE=LVCMOS33;
+
+# --- 3. RESET FÍSICO ---
+# Botão de reset. PULLMODE=UP mantém em nível lógico ALTO.
+# Ao apertar o botão (ligado ao GND), o sinal cai para 0, acionando o reset (rst_n).
+LOCATE COMP "rst_n" SITE "L4"; 
+IOBUF PORT "rst_n" IO_TYPE=LVCMOS33 PULLMODE=UP;
